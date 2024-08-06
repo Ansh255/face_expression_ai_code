@@ -1,40 +1,40 @@
 
- python:S117Y"WRename this local variable "eblEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ­Å¡ûÿÿÿÿ8Û™©µ’2J$ac8c1767-529b-4e85-bb2f-76cb2d3176a8
-¢python:S117Y"YRename this local variable "eblStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ­Å¡ûÿÿÿÿ8Û™©µ’2J$deea0e89-7b10-405c-b23f-55d92a6e126c
-›python:S117Z"WRename this local variable "ebrEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú˜ú¥8Û™©µ’2J$b9d832be-6e5d-4386-b870-f21c72cdb87e
-python:S117Z"YRename this local variable "ebrStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú˜ú¥8Û™©µ’2J$29b9be5c-1f9a-4232-ae99-bfee1b17e6c4
-˜python:S117W"URename this local variable "jEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÀ³78Û™©µ’2J$67d51dc6-62d5-40d4-bc74-39b75953ecad
-špython:S117W"WRename this local variable "jStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÀ³78Û™©µ’2J$5e978ca7-1c79-42b2-aaa5-2b327af6931d
-python:S117R"URename this local variable "lEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğ‚Ó°ÿÿÿÿÿ8Û™©µ’2J$3084ead6-f1a2-479b-a81b-37e8bde4b75f
- python:S117R"WRename this local variable "lStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğ‚Ó°ÿÿÿÿÿ8Û™©µ’2J$2d1d7a9c-a1b9-42b6-a119-1e170a74188a
-¢python:S117Í"XRename this local variable "leftEAR" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍÒÓ›øÿÿÿÿ8Û™©µ’2J$6bb65db0-fec6-4cd0-8063-adcac5b0cda0
-python:S117Ê"XRename this local variable "leftEye" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÑÊ²Ò8Û™©µ’2J$9deb66e1-eead-4c98-aa38-5d87d3b8e773
-python:S117V"URename this local variable "mEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÍ°Áùÿÿÿÿ8Û™©µ’2J$10c6ca83-dc2c-4d1e-8ba3-98d0da0eed92
- python:S117V"WRename this local variable "mStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÍ°Áùÿÿÿÿ8Û™©µ’2J$3db11814-feb9-4808-9840-f2449004765c
-python:S117U"URename this local variable "nEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆı’æûÿÿÿÿ8Û™©µ’2J$eef38208-2f98-44d9-be34-76b5d7787c2b
- python:S117U"WRename this local variable "nStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆı’æûÿÿÿÿ8Û™©µ’2J$0025ebf4-b069-4897-869c-9cbb2e56ecc1
-™python:S117S"URename this local variable "rEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(–ÙÓó8Û™©µ’2J$bda3c88c-e51f-45c3-abfc-b83262e2c482
-›python:S117S"WRename this local variable "rStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(–ÙÓó8Û™©µ’2J$b1ae15b6-0032-4730-8bac-19feaf686786
-python:S117Î"YRename this local variable "rightEAR" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÔ¤Ù8Û™©µ’2J$3cb2c34a-7d41-45c3-8165-2e974970b41a
-python:S117Ë"YRename this local variable "rightEye" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì¨¬•8Û™©µ’2J$79eef435-0d04-46a5-b92d-a92a3d0d3630
-rpython:S1481Ï"'Remove the unused local variable "ear".(ˆàÁ¥øÿÿÿÿ8Û™©µ’2J$16400c37-2f1a-4ac4-9cef-3c85089bc8bd
-spython:S1481g".Remove the unused local variable "face_index".(ÀãÏÈ8Û™©µ’2J$d9b30d6e-9489-4d50-9785-08928a666e8d
-opython:S1481"*Remove the unused local variable "thresh".(ó˜†ã8Û™©µ’2J$5f1ab63f-1c13-45c1-8594-b0ee2e4b59e6
-rpython:S1481"-Remove the unused local variable "n_classes".(Ü–‹¡8Û™©µ’2J$914e7180-2a36-4fd1-aee5-a044d537d553
-tpython:S1481"/Remove the unused local variable "frame_check".(ºü‡€8Û™©µ’2J$1881ce0d-a268-4a2a-a5c0-8be03c3044b0
-spython:S1481"/Remove the unused local variable "input_shape".(ïîÑd8Û™©µ’2J$3e8f4f05-032e-4ccd-87d9-b6232a637693
-™python:S3776"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(•êÈ8Û™©µ’2J$4a19e30a-e6bf-4fb7-8573-1a35e9c7351d
-¢python:S117!"YRename this local variable "cascPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(§…¢ïøÿÿÿÿ8Û™©µ’2J$75c07410-a839-404d-9d22-ed9db46573b3
-¥python:S117""\Rename this local variable "faceCascade" to match the regular expression ^[_a-z][a-z0-9_]*$.(úŒÆşúÿÿÿÿ8Û™©µ’2J$3c39f3ae-5582-4964-80cd-476316e66361
-ppython:S14811"+Remove the unused local variable "sub_img".(ÛïÍ‘8Û™©µ’2J$b923b38e-2656-496a-ba52-43c0d841fec2
-mpython:S5603"(Remove this unused function declaration.(¾ğßü8Û™©µ’2J$fe79fc5b-4ed2-4b9e-882a-32be1d0698a4
-rpython:S56037"(Remove this unused function declaration.(ÁçÀƒşÿÿÿÿ8Û™©µ’2J$d5e740d9-0eb0-4d45-bff9-f2b852a27162
-‹python:S6730@"GReplace this deprecated "numpy" type alias with the builtin type "int".(ãŸÓ8Û™©µ’2J$f24bf359-152d-4c2d-9e60-f5c752c77dbc
-Œpython:S6730A"GReplace this deprecated "numpy" type alias with the builtin type "int".(â£ë´8Û™©µ’2J$1bc82e73-4ae3-4096-9974-380dc7a1b646
-python:S5754y"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8Û™©µ’2J$4c9144b6-bef1-4d92-b563-ddcb7af71116
-ipython:S125Š"Remove this commented out code.(çÓ áıÿÿÿÿ8Û™©µ’2J$6b526ca7-3f18-4ce7-8272-4d7b7f70093a
-ipython:S125Ñ"Remove this commented out code.(£—Âåûÿÿÿÿ8Û™©µ’2J$05f5903c-5203-4f1f-9947-0df9f97f6816
-dpython:S125Ö"Remove this commented out code.(°•­¾8Û™©µ’2J$addb0bbf-10d3-46ef-b38e-960151836db3
-dpython:S125Ú"Remove this commented out code.(ú‚ûê8ë™©µ’2J$74b68499-46a1-43cb-8e32-35c35198997a
-cpython:S125Ş"Remove this commented out code.(şÜÌ*8ë™©µ’2J$336c4197-9c6c-4255-852e-3c11827f5c40
-ipython:S125â"Remove this commented out code.(¤Ÿ¿·üÿÿÿÿ8ë™©µ’2J$c58cb76a-2f48-47cc-b5db-3989a546ae18
+ python:S117Y"WRename this local variable "eblEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ­Å¡ûÿÿÿÿ8Û™©µ’2J$b61e5408-98fb-4bbc-b8e0-4a088a302ec9
+¢python:S117Y"YRename this local variable "eblStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ­Å¡ûÿÿÿÿ8Û™©µ’2J$43ad5936-7222-44b8-9713-e804dd8d53ef
+›python:S117Z"WRename this local variable "ebrEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú˜ú¥8Û™©µ’2J$b9d1d5ee-8dc1-407d-8b55-1aab5026cfc5
+python:S117Z"YRename this local variable "ebrStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú˜ú¥8Û™©µ’2J$8c873d7e-c929-4f20-8f89-4db1be99bfcf
+˜python:S117W"URename this local variable "jEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÀ³78Û™©µ’2J$c2f71721-bf6e-4ce5-842c-8cf8e67904d1
+špython:S117W"WRename this local variable "jStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÀ³78Û™©µ’2J$51129b9a-6220-45c8-9eb1-0896c2f08562
+python:S117R"URename this local variable "lEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğ‚Ó°ÿÿÿÿÿ8Û™©µ’2J$74994af3-ccf8-45a2-a536-7b8859f44c03
+ python:S117R"WRename this local variable "lStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğ‚Ó°ÿÿÿÿÿ8Û™©µ’2J$be45cc7f-6520-4ffd-90d5-098cd2679ff7
+¢python:S117Í"XRename this local variable "leftEAR" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍÒÓ›øÿÿÿÿ8Û™©µ’2J$808f5635-4482-4abc-9640-7fcf7bb4f0e4
+python:S117Ê"XRename this local variable "leftEye" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÑÊ²Ò8Û™©µ’2J$698741c3-c89b-4495-85b0-6b127c9a9515
+python:S117V"URename this local variable "mEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÍ°Áùÿÿÿÿ8Û™©µ’2J$f0665a1a-7baa-494e-b04e-90af5f430d05
+ python:S117V"WRename this local variable "mStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÍ°Áùÿÿÿÿ8Û™©µ’2J$5bea8b1e-1ac4-4c47-80cd-7099883bdc6a
+python:S117U"URename this local variable "nEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆı’æûÿÿÿÿ8Û™©µ’2J$76bcdfca-7da8-4a86-aa9f-468ede0c941e
+ python:S117U"WRename this local variable "nStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆı’æûÿÿÿÿ8Û™©µ’2J$acaa7996-8838-4411-a682-d849d04e1cb7
+™python:S117S"URename this local variable "rEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(–ÙÓó8Û™©µ’2J$f1e40a40-d619-46f5-8a18-dd367c87b594
+›python:S117S"WRename this local variable "rStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(–ÙÓó8Û™©µ’2J$abc56815-1f1b-4c89-8197-efa20cc04c35
+python:S117Î"YRename this local variable "rightEAR" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÔ¤Ù8Û™©µ’2J$3e98535c-18ef-4060-b872-c85cc34ed7a0
+python:S117Ë"YRename this local variable "rightEye" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì¨¬•8Û™©µ’2J$0436b517-d345-4ce3-a43d-27a9b9d77cb8
+rpython:S1481"-Remove the unused local variable "n_classes".(Ü–‹¡8Û™©µ’2J$25ddfa9e-bfd2-4710-a5cd-1d3b3d40698b
+opython:S1481"*Remove the unused local variable "thresh".(ó˜†ã8Û™©µ’2J$fbaa55e4-db5a-4ce8-9af6-c27732685194
+spython:S1481"/Remove the unused local variable "input_shape".(ïîÑd8Û™©µ’2J$35ed01b9-1a5b-4b21-80f4-52d6c0e7c195
+spython:S1481g".Remove the unused local variable "face_index".(ÀãÏÈ8Û™©µ’2J$a21cb9a8-4f2d-4869-9cdf-ac81420b0e1e
+rpython:S1481Ï"'Remove the unused local variable "ear".(ˆàÁ¥øÿÿÿÿ8Û™©µ’2J$39301170-a1df-4362-a6f4-caa4925eb5a6
+tpython:S1481"/Remove the unused local variable "frame_check".(ºü‡€8Û™©µ’2J$58c01eb5-9382-4559-addc-89686e152190
+™python:S3776"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(•êÈ8Û™©µ’2J$35cb62ea-8540-4668-9583-af0185098633
+¢python:S117!"YRename this local variable "cascPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(§…¢ïøÿÿÿÿ8Û™©µ’2J$95829621-af36-409a-995e-0045c36eaf5f
+¥python:S117""\Rename this local variable "faceCascade" to match the regular expression ^[_a-z][a-z0-9_]*$.(úŒÆşúÿÿÿÿ8Û™©µ’2J$ce863aa3-6f58-4e03-8c88-5f90084f4c88
+ppython:S14811"+Remove the unused local variable "sub_img".(ÛïÍ‘8Û™©µ’2J$783f1f92-12de-430d-b352-14bcf71f0499
+mpython:S5603"(Remove this unused function declaration.(¾ğßü8Û™©µ’2J$05dbd31c-961d-4dbc-85f0-ee775ddd135e
+rpython:S56037"(Remove this unused function declaration.(ÁçÀƒşÿÿÿÿ8Û™©µ’2J$4c3c3530-c146-4a15-a0f0-766234f0494a
+‹python:S6730@"GReplace this deprecated "numpy" type alias with the builtin type "int".(ãŸÓ8Û™©µ’2J$8c61c4e5-fa85-4f2f-913b-85f41467d68d
+Œpython:S6730A"GReplace this deprecated "numpy" type alias with the builtin type "int".(â£ë´8Û™©µ’2J$4b6a3b49-3f26-4655-9ee8-e536e1dd6791
+python:S5754y"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8Û™©µ’2J$f13e450b-9498-42ff-9279-e1182a825f61
+ipython:S125Š"Remove this commented out code.(çÓ áıÿÿÿÿ8Û™©µ’2J$1db9577c-d9a7-46b9-b944-34e6bf56cdfe
+ipython:S125Ñ"Remove this commented out code.(£—Âåûÿÿÿÿ8Û™©µ’2J$0fb270ff-92f9-48ed-93b1-10a3d1349055
+dpython:S125Ö"Remove this commented out code.(°•­¾8Û™©µ’2J$2e2dde9f-6157-4845-be91-c14a6081bd45
+dpython:S125Ú"Remove this commented out code.(ú‚ûê8ë™©µ’2J$dc002749-3bdb-4109-a6a8-9aff72ed9848
+cpython:S125Ş"Remove this commented out code.(şÜÌ*8ë™©µ’2J$103f269d-374e-4cb2-892e-afb4c2da3598
+ipython:S125â"Remove this commented out code.(¤Ÿ¿·üÿÿÿÿ8ë™©µ’2J$bd7b496a-53c0-4acd-a45a-dcbde7adbd2e
